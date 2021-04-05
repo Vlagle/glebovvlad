@@ -1,2 +1,0 @@
-# glebovvlad
-glebovvlad.ga
