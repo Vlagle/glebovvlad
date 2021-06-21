@@ -50,6 +50,8 @@
     font-size: 40;
     font-weight: 400;
     padding-top: 20px;
+    text-transform: uppercase;
+    line-height: normal;
 }
 
 
